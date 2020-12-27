@@ -3,8 +3,7 @@ This repository consist links of scratchcode.io blog
 
 1) <a href="https://www.scratchcode.io/contact-form-7-is-not-working-issues/">Contact Form 7 Is Not Working Issue In WordPress</a>
 
-2) <a href="https://www.scratchcode.io/cookies-are-blocked-or-not-supported-by-your-browser/"> 	
-ERROR: Cookies are blocked or not supported by your browser</a>
+2) <a href="https://www.scratchcode.io/cookies-are-blocked-or-not-supported-by-your-browser/">ERROR: Cookies are blocked or not supported by your browser</a>
 
 3) <a href="https://www.scratchcode.io/wordpress-keeps-redirecting-to-wp-admin-install-php/">WordPress keeps redirecting to wp-admin/install.php</a>
 
