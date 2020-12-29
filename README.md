@@ -166,3 +166,5 @@ This repository consist links of scratchcode.io blog
 79) <a href="https://www.scratchcode.io/laravel-datatables-tutorial-with-example/">Laravel DataTables Tutorial With Example</a>
 
 80) <a href="https://www.scratchcode.io/angular-datatable-tutorial-with-example/">Angular DataTable Tutorial With Example</a>
+
+81) <a href="https://www.scratchcode.io/laravel-one-to-one-relationship-tutorial/">Laravel One To One Relationship Tutorial</a>
