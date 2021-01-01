@@ -172,3 +172,7 @@ This repository consist links of scratchcode.io blog
 82) <a href="https://www.scratchcode.io/laravel-one-to-many-relationship-tutorial-with-example/">Laravel One To Many Relationship Tutorial With Example</a>
 
 83) <a href="https://www.scratchcode.io/database-records-update-in-laravel/">Database Records Update In Laravel</a>
+
+84) <a href="https://www.scratchcode.io/how-to-print-or-debug-query-in-laravel/">How To Print Or Debug Query In Laravel</a>
+
+85) <a href="https://www.scratchcode.io/laravel-remove-package-with-example-correct-way/">Laravel Remove Package With Example (Correct Way)</a>
