@@ -1,4 +1,27 @@
 # scratchcode.io
+-----
+
+<a href="https://scratchcode.postach.io/post/useful-scrachcode-resources">Postach - Useful scratchcode resource</a>
+
+<a href="https://vk.com/@scratchcode-useful-scratchcode-resource">VK - Useful scratchcode resource</a>
+
+<a href="https://gitlab.com/mayanksdudakiya/scratchcode/">GitLab - Useful scratchcode resource</a>
+
+<a href="https://codepen.io/mayanksdudakiya/project/editor/XVzoEe">CodePen - Useful scratchcode resource</a>
+
+<a href="https://scratchcode651727649.wordpress.com/2021/01/02/useful-programming-resource/">WP - Useful scratchcode resource</a>
+
+<a href="https://scratchcodeio.weebly.com/">Weebly - Useful scratchcode resource</a>
+
+<a href="https://amkaycomputer.blogspot.com/2020/12/scratchcodeio.html">AMC - Useful scratchcode resource</a>
+
+<a href="https://amkaycomputers.blogspot.com/2020/12/scratchcodeio.html">AMCs - Useful scratchcode resource</a>
+
+<a href="https://krazzycodes.blogspot.com/2020/12/scratchcodeio-links.html">Krazzycodes - Useful scratchcode resource</a>
+
+--------
+
+
 This repository consist links of scratchcode.io blog
 
 1) <a href="https://www.scratchcode.io/contact-form-7-is-not-working-issues/">Contact Form 7 Is Not Working Issue In WordPress</a>
@@ -176,3 +199,9 @@ This repository consist links of scratchcode.io blog
 84) <a href="https://www.scratchcode.io/how-to-print-or-debug-query-in-laravel/">How To Print Or Debug Query In Laravel</a>
 
 85) <a href="https://www.scratchcode.io/laravel-remove-package-with-example-correct-way/">Laravel Remove Package With Example (Correct Way)</a>
+
+86) <a href="https://www.scratchcode.io/laravel-8-target-class-controller-does-not-exist/">Laravel 8: Target Class Controller Does Not Exist</a>
+
+87) <a href="https://www.scratchcode.io/laravel-multiple-where-conditions-with-example/">Laravel Multiple Where Conditions With Example</a>
+
+88) <a href="https://www.scratchcode.io/laravel-csrf-token-mismatch-error-message/">Laravel CSRF Token Mismatch Error Message</a>
