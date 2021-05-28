@@ -205,3 +205,25 @@ This repository consist links of scratchcode.io blog
 87) <a href="https://www.scratchcode.io/laravel-multiple-where-conditions-with-example/">Laravel Multiple Where Conditions With Example</a>
 
 88) <a href="https://www.scratchcode.io/laravel-csrf-token-mismatch-error-message/">Laravel CSRF Token Mismatch Error Message</a>
+
+89) <a href="https://www.scratchcode.io/solve-forbidden-error-while-activating-the-elementor-pro-license/">Solve Forbidden Error While Activating The Elementor Pro License</a>
+
+90) <a href="https://www.scratchcode.io/how-to-break-nested-loops-in-php-or-laravel/">How To Break Nested Loops In PHP Or Laravel</a>
+
+91) <a href="https://www.scratchcode.io/how-to-get-latest-records-in-laravel/">How To Get Latest Records In Laravel</a>
+
+92) <a href="https://www.scratchcode.io/how-to-remove-woocommerce-data-after-uninstall/">How To Remove WooCommerce Data After Uninstall</a>
+
+93) <a href="https://www.scratchcode.io/how-to-handle-failed-jobs-in-laravel/">How To Handle Failed Jobs In Laravel</a>
+
+94) <a href="https://www.scratchcode.io/how-to-check-laravel-php-version/">How To Check Laravel PHP Version</a>
+
+95) <a href="https://www.scratchcode.io/difference-between-composer-json-and-package-json/">Difference Between composer.json And package.json</a>
+
+96) <a href="https://www.scratchcode.io/difference-of-require-include-require-once-and-include-once/">Difference Of require, include, require_once And include_once</a>
+
+97) <a href="https://www.scratchcode.io/wordpress-media-library-not-showing-images/">WordPress Media Library Not Showing Images</a>
+
+98) <a href="https://www.scratchcode.io/wordpress-run-function-only-once/">WordPress: Run Function Only Once</a>
+
+99) <a href="https://www.scratchcode.io/how-to-create-database-table-in-wordpress/">How To Create Database Table In WordPress</a>
