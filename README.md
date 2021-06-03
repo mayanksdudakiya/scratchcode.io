@@ -1,14 +1,6 @@
 # scratchcode.io
 -----
 
-<a href="https://scratchcode.postach.io/post/useful-scrachcode-resources">Postach - Useful scratchcode resource</a>
-
-<a href="https://vk.com/@scratchcode-useful-scratchcode-resource">VK - Useful scratchcode resource</a>
-
-<a href="https://gitlab.com/mayanksdudakiya/scratchcode/">GitLab - Useful scratchcode resource</a>
-
-<a href="https://codepen.io/mayanksdudakiya/project/editor/XVzoEe">CodePen - Useful scratchcode resource</a>
-
 <a href="https://scratchcode651727649.wordpress.com/2021/01/02/useful-programming-resource/">Part 1 - Scratchcode | WordPress Useful Resource</a>
 
 <a href="https://scratchcode651727649.wordpress.com/2021/05/31/part-2-useful-programming-resouce-scratchcode-io/">Part 2 - Scratchcode | WordPress Useful Resource</a>
@@ -33,7 +25,37 @@
 
 <a href="https://krazzycodes.blogspot.com/2021/06/part-2-krazzycodes-blogspot-useful.html">Part 2 - Krazzycodes | blospot | Useful Resource</a>
 
+<a href="https://github.com/mayanksdudakiya/scratchcode-io-2">Part 2 - Github | Useful Resource</a>
+
+<a href="https://scratchcode.postach.io/post/useful-scrachcode-resources">Part 1 - Postach | Useful Resource</a>
+
+<a href="https://scratchcode.postach.io/post/part-2-useful-scratchcode-resource">Part 2 - Postach | Useful Resource</a>
+
+<a href="https://vk.com/@scratchcode-useful-scratchcode-resource">Part 1 - VK | Useful Resource</a>
+
+<a href="https://vk.com/@scratchcode-part-2-useful-programming-resource">Part 2 - VK | Useful Resource</a>
+
+<a href="https://gitlab.com/mayanksdudakiya/scratchcode/">Part - 1 | GitLab - Useful scratchcode resource</a>
+
+<a href="https://gitlab.com/mayanksdudakiya/scratchcode/">Part - 2 | GitLab - Useful scratchcode resource</a>
+
+<a href="https://devdojo.com/msdnsditlabs/part-1-useful-programming-resource">Part - 1 | DevDojo - Useful scratchcode resource</a>
+
+<a href="https://devdojo.com/msdnsditlabs/part-2-useful-programming-resource-scratchcodeio">Part - 2 | DevDojo - Useful scratchcode resource</a>
+
+<a href="https://scratchcode.hashnode.dev/part-1-useful-links-of-scratchcodeio-blog">Part - 1 | Hashnode - Useful scratchcode resource</a>
+
+<a href="https://scratchcode.hashnode.dev/part-2-useful-scratchcodeio-resources">Part - 2 | Hashnode - Useful scratchcode resource</a>
 --------
+
+// Source Book 
+1) <a href="https://www.scratchcode.io/source-books/what-is-shortcode-and-how-to-use-shortcode-in-wordpress/">What is Shortcode and How to Use Shortcode in WordPress</a> 
+2) <a href="https://www.scratchcode.io/source-books/how-to-add-shortcode-in-wordpress/">How to Add Shortcode in WordPress</a>
+3) <a href="https://www.scratchcode.io/source-books/how-to-use-do-shortcode-in-wordpress/">How to Use do_shortcode in WordPress</a>
+4) <a href="https://www.scratchcode.io/source-books/what-is-content-management-system-why-we-use-cms-examples-of-popular-cms/">What is Content Management System? Why We Use CMS? Popular CMS?</a>
+5) <a href="https://www.scratchcode.io/source-books/what-are-hooks-in-wordpress-types-of-hooks-in-wordpress/">What are Hooks in WordPress? Types of Hooks in WordPress</a>
+
+----------------
 
 
 This repository consist links of scratchcode.io blog
