@@ -9,15 +9,29 @@
 
 <a href="https://codepen.io/mayanksdudakiya/project/editor/XVzoEe">CodePen - Useful scratchcode resource</a>
 
-<a href="https://scratchcode651727649.wordpress.com/2021/01/02/useful-programming-resource/">WP - Useful scratchcode resource</a>
+<a href="https://scratchcode651727649.wordpress.com/2021/01/02/useful-programming-resource/">Part 1 - Scratchcode | WordPress Useful Resource</a>
 
-<a href="https://scratchcodeio.weebly.com/">Weebly - Useful scratchcode resource</a>
+<a href="https://scratchcode651727649.wordpress.com/2021/05/31/part-2-useful-programming-resouce-scratchcode-io/">Part 2 - Scratchcode | WordPress Useful Resource</a>
 
-<a href="https://amkaycomputer.blogspot.com/2020/12/scratchcodeio.html">AMC - Useful scratchcode resource</a>
+<a href="https://krazzycodes.wordpress.com/2021/05/27/part-1-useful-programming-resources/">Part 1 - Krazzycodes | WordPress Useful Resource</a>
 
-<a href="https://amkaycomputers.blogspot.com/2020/12/scratchcodeio.html">AMCs - Useful scratchcode resource</a>
+<a href="https://krazzycodes.wordpress.com/2021/05/31/part-2-useful-programming-resource-scratchcode-io/">Part 2 - Krazzycodes | WordPress Useful Resource</a>
 
-<a href="https://krazzycodes.blogspot.com/2020/12/scratchcodeio-links.html">Krazzycodes - Useful scratchcode resource</a>
+<a href="https://scratchcodeio.weebly.com/">Part 1 - Scratchcode | Weebly Useful Resource</a>
+
+<a href="https://scratchcodeio.weebly.com/blog/part-2-useful-programming-resource">Part 2 - Scratchcode | Weebly Useful Resource</a>
+
+<a href="https://amkaycomputer.blogspot.com/2020/12/scratchcodeio.html">Part 1 - Amkay | blospot | Useful Resource</a>
+
+<a href="https://amkaycomputer.blogspot.com/2021/06/part-2-useful-programming-resource.html">Part 2 - Amkay | blospot | Useful Resource</a>
+
+<a href="https://amkaycomputers.blogspot.com/2020/12/scratchcodeio.html">Part 1 - Amkays | blospot | Useful Resource</a>
+
+<a href="https://amkaycomputers.blogspot.com/2021/06/part-2-amkays-computers-useful.html">Part 2 - Amkays | blospot | Useful Resource</a>
+
+<a href="https://krazzycodes.blogspot.com/2020/12/scratchcodeio-links.html">Part 1 - Krazzycodes | blospot | Useful Resource</a>
+
+<a href="https://krazzycodes.blogspot.com/2021/06/part-2-krazzycodes-blogspot-useful.html">Part 2 - Krazzycodes | blospot | Useful Resource</a>
 
 --------
 
@@ -227,3 +241,6 @@ This repository consist links of scratchcode.io blog
 98) <a href="https://www.scratchcode.io/wordpress-run-function-only-once/">WordPress: Run Function Only Once</a>
 
 99) <a href="https://www.scratchcode.io/how-to-create-database-table-in-wordpress/">How To Create Database Table In WordPress</a>
+
+100) <a href="https://www.scratchcode.io/how-to-pass-laravel-url-parameter/">How To Pass Laravel URL Parameter</a>
+
