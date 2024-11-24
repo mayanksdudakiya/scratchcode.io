@@ -266,3 +266,9 @@ This repository consist links of scratchcode.io blog
 
 100) <a href="https://www.scratchcode.io/how-to-pass-laravel-url-parameter/">How To Pass Laravel URL Parameter</a>
 
+
+https://youtu.be/QeHkRGvnkQw
+
+https://youtu.be/8YaSYPS4oBc
+
+https://youtube.com/shorts/UW9kzKa9iPk
