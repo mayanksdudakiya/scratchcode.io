@@ -280,3 +280,5 @@ This repository consist links of scratchcode.io blog
 
 106) <a href="https://youtu.be/decBfJ5DNFo">We Are Shapes | Fun Kids Song About The Shapes | Nursery Rhymes | Educational Cartoon for Children</a>
 
+107) <a href="https://youtu.be/fVq74-rPEi4">ABCD Phonics for Kids | ABCD Sounds with Examples | Learn A To Z | Educational Nursery Rhymes</a>
+
