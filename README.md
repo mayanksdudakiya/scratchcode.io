@@ -278,3 +278,5 @@ This repository consist links of scratchcode.io blog
 
 105) <a href="https://youtu.be/kX6YEZ9Z5eE">Circle Song for Kids | Learn Shapes with Fun Animation & Rhymes!</a>
 
+106) <a href="https://youtu.be/decBfJ5DNFo">We Are Shapes | Fun Kids Song About The Shapes | Nursery Rhymes | Educational Cartoon for Children</a>
+
