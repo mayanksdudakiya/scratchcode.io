@@ -282,3 +282,6 @@ This repository consist links of scratchcode.io blog
 
 107) <a href="https://youtu.be/fVq74-rPEi4">ABCD Phonics for Kids | ABCD Sounds with Examples | Learn A To Z | Educational Nursery Rhymes</a>
 
+108) <a href="https://youtu.be/X9fjElavJKY">The Square Song for Kids | Learn About Shapes with Square | Learn Shapes with Fun Nursery Rhymes</a>
+
+109) <a href="https://youtu.be/Y-xlHkMot-Q">Colors Song for Kids | Fun Phonics Learning Video with Cheerful Colors for Kids | Nursery Rhymes</a>
