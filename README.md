@@ -268,20 +268,17 @@ This repository consist links of scratchcode.io blog
 
 
 
-101) <a href="https://youtu.be/QeHkRGvnkQw">Twinkle Twinkle Little Star - Fun Animated Nursery Rhyme for Kids | Learn with The Jumping Jelly</a>
+101) <a href="https://youtu.be/QeHkRGvnkQw">Twinkle Twinkle Little Star | Fun Animated Nursery Rhyme for Kids | Fun Sing-Along Learning Video</a>
 
-102) <a href="https://youtu.be/8YaSYPS4oBc">Phonics Song with One Word - A For Apple - ABCD Alphabet Songs with Sounds for Children</a>
-
+102) <a href="https://youtu.be/8YaSYPS4oBc">Phonics Song for Kids - A for Apple, B for Ball | ABCD Alphabet Song with Sounds & Fun Animation</a>
 103) <a href="https://youtube.com/shorts/UW9kzKa9iPk">ABCD Song #shorts #trending #viral #cartoon #littletreehouse #babysongs #learn #rhymes</a>
+104) <a href="https://youtu.be/fVq74-rPEi4">ABC Phonics Song | Learn A to Z Sounds for Kids | Fun Alphabet Learning with Examples & Rhymes</a>
 
-104) <a href="https://www.youtube.com/@TheJumpingJelly">The Jumping Jelly YouTube Channel</a>
-
-105) <a href="https://youtu.be/kX6YEZ9Z5eE">Circle Song for Kids | Learn Shapes with Fun Animation & Rhymes!</a>
-
+105) <a href="https://youtu.be/kX6YEZ9Z5eE">Circle Song for Kids | Learn Shapes with Fun Animated Rhymes | Preschool Learning Video</a>
 106) <a href="https://youtu.be/decBfJ5DNFo">We Are Shapes | Fun Kids Song About The Shapes | Nursery Rhymes | Educational Cartoon for Children</a>
+107) <a href="https://youtu.be/X9fjElavJKY">Square Song for Kids | Fun Shape Learning with Square | Preschool Educational Rhymes</a>
 
-107) <a href="https://youtu.be/fVq74-rPEi4">ABCD Phonics for Kids | ABCD Sounds with Examples | Learn A To Z | Educational Nursery Rhymes</a>
-
-108) <a href="https://youtu.be/X9fjElavJKY">The Square Song for Kids | Learn About Shapes with Square | Learn Shapes with Fun Nursery Rhymes</a>
-
-109) <a href="https://youtu.be/Y-xlHkMot-Q">Colors Song for Kids | Fun Phonics Learning Video with Cheerful Colors for Kids | Nursery Rhymes</a>
+108) <a href="https://youtu.be/W5WCM4CyAFc">Weather Song for Kids | Sunny, Rainy, Windy & Snowy Days Explained with Rhymes | Fun Nursery Rhymes</a>
+109) <a href="https://youtu.be/dCafz9MLwSM">Non-Stop Twinkle Twinkle Little Star | 1 Hour of Fun Nursery Rhymes for Kids | Non-Stop Kids Songs</a>
+110) <a href="https://youtu.be/Y-xlHkMot-Q">Colors Song for Kids | Fun Phonics Learning Video with Cheerful Colors for Kids | Nursery Rhymes</a>
+111) <a href="https://youtu.be/OgwPtpN4_YQ">Thank You Song for Kids | Gratitude Rhymes for Children | Learn Thankfulness with Fun</a>
