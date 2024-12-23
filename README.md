@@ -275,10 +275,14 @@ This repository consist links of scratchcode.io blog
 104) <a href="https://youtu.be/fVq74-rPEi4">ABC Phonics Song | Learn A to Z Sounds for Kids | Fun Alphabet Learning with Examples & Rhymes</a>
 
 105) <a href="https://youtu.be/kX6YEZ9Z5eE">Circle Song for Kids | Learn Shapes with Fun Animated Rhymes | Preschool Learning Video</a>
-106) <a href="https://youtu.be/decBfJ5DNFo">We Are Shapes | Fun Kids Song About The Shapes | Nursery Rhymes | Educational Cartoon for Children</a>
+106) <a href="https://youtu.be/decBfJ5DNFo">We Are Shapes | Fun Kids Song Abo Shapes | Fun Kids Sut The Shapes | Nursery Rhymes | Educational Cartoon for Children</a>
 107) <a href="https://youtu.be/X9fjElavJKY">Square Song for Kids | Fun Shape Learning with Square | Preschool Educational Rhymes</a>
 
 108) <a href="https://youtu.be/W5WCM4CyAFc">Weather Song for Kids | Sunny, Rainy, Windy & Snowy Days Explained with Rhymes | Fun Nursery Rhymes</a>
 109) <a href="https://youtu.be/dCafz9MLwSM">Non-Stop Twinkle Twinkle Little Star | 1 Hour of Fun Nursery Rhymes for Kids | Non-Stop Kids Songs</a>
 110) <a href="https://youtu.be/Y-xlHkMot-Q">Colors Song for Kids | Fun Phonics Learning Video with Cheerful Colors for Kids | Nursery Rhymes</a>
 111) <a href="https://youtu.be/OgwPtpN4_YQ">Thank You Song for Kids | Gratitude Rhymes for Children | Learn Thankfulness with Fun</a>
+112) <a href="https://youtu.be/tDs-ObtWctc">Phonics Song with TWO Words | A for Apple | ABC Alphabet Songs for Kids | Learn Alphabet Sounds</a>
+113) <a href="https://youtu.be/thaFqwThsXM">Five Little Monkeys Jumping on a Bed | Fun Nursery Rhyme for Kids | Children's Cartoon Songs</a>
+114) <a href="https://youtu.be/DGeA_sz-24c">[🎄NEW] Christmas Yes, Papa | Christmas Carol | Best Christmas Song | Yes Papa Song | Best Kids Songs</a>
+115) <a href="https://youtu.be/ac9Hln7tvHU">Triangle Shape Song for Kids | Fun Learning with Shapes and Examples | Fun For Kids Nursery Rhymes</a>
